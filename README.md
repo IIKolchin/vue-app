@@ -1,4 +1,4 @@
-# skillbox2
+# Vue
 
 ## Project setup
 ```
